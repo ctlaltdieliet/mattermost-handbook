@@ -19,7 +19,6 @@ To translate a language:
 
 3. Review translation rules written by localization leads, when applicable:
 
-   * [German (Regeln zur Übersetzung von Mattermost)](https://gist.github.com/der-test/6e04bff8a173e053811cb93e08838ca2).
    * [French (Règles pour la traduction francophone de Mattermost)](https://github.com/wget/mattermost-localization-french-translation-rules).
    * [Dutch translation rules for Mattermost](https://github.com/ctlaltdieliet/mattermost-localization-dutch-translation-rules).
 
@@ -120,7 +119,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer(s) | Maintainers  |  
 |:----------|:----------------------|:--------------|
-| Deutsch - German | [Christian Arnold (meilon)](https://github.com/meilon) | [Tim Estermann (der-test)](https://github.com/der-test) |
+| Deutsch - German | [Christian Arnold (meilon)](https://github.com/meilon) | (open role) |
 | Español - Spanish| [Elias Nahum (enahum)](https://github.com/enahum)| [Jesús Espino](http://github.com/jespino) |
 | Français - French| [William Gathoye (wget)](https://github.com/wget) |              |
 | Italiano - Italian | [Michael Longo (mlongo4290)](https://github.com/mlongo4290) | [Ema Panz (thepanz)](https://github.com/thepanz)|
